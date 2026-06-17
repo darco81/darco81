@@ -75,71 +75,14 @@ LLMs second, only where they actually win.
 
 ---
 
-<!--
-## Pinned Repositories
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/darco81/sdet-wcag-toolkit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darco81&repo=sdet-wcag-toolkit&theme=react&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/darco81/sdet-brain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darco81&repo=sdet-brain&theme=react&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/darco81/cdat-pattern">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darco81&repo=cdat-pattern&theme=react&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/darco81/demo-bi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darco81&repo=demo-bi&theme=react&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/darco81/M-A-F">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darco81&repo=M-A-F&theme=react&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/darco81/k6-dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darco81&repo=k6-dashboard&theme=react&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
--->
-
 ## What I'm building
 
-**Brand & Tooling**
-
 - 🔥 **[sdet-wcag-toolkit](https://github.com/darco81/sdet-wcag-toolkit)** - Static + dynamic + 5 AI specialists for WCAG 2.2 AA audits. AGPL-3.0.
-- 🧠 **[sdet-brain](https://github.com/darco81/sdet-brain)** - Persistent RAG for your Markdown corpus. Local-first MLX + Qdrant. 11 MCP tools.
-- 🌐 **[portfolio-v2](https://github.com/darco81/portfolio-v2)** - Astro 6 portfolio with /mcp, /llms.txt, per-article OG. EN + PL.
-
-**Patterns & References**
-
-- 🏗️ **[cdat-pattern](https://github.com/darco81/cdat-pattern)** - Components-Data-Actions-Tests. 4-layer architecture for maintainable Playwright tests.
-- 📊 **[demo-bi](https://github.com/darco81/demo-bi)** - Modern BI system with Next.js 14, analytics dashboards, AI-powered insights.
-- ⚡ **[k6-dashboard](https://github.com/darco81/k6-dashboard)** - React + Express dashboard for k6 performance test results.
-
-**Apps & Utilities**
-
-- 💼 **[M-A-F](https://github.com/darco81/M-A-F)** - Invoice app: React + .NET + PostgreSQL with Playwright API tests.
-- 🧪 **[maf-e2e-pw](https://github.com/darco81/maf-e2e-pw)** - E2E UI tests for M-A-F in Playwright + TypeScript.
-- 📈 **[k6-tests](https://github.com/darco81/k6-tests)** - API performance tests with k6.
-- 📝 **[Confluence Headers Manager](https://github.com/darco81/confluence-headers-manager-pro)** - Header management for large Confluence spaces.
+- 🧠 **[sdet-brain](https://github.com/darco81/sdet-brain)** - Persistent RAG for a personal Markdown corpus. Local-first MLX + Qdrant, MCP server.
+- 🛰️ **[skills-radar](https://github.com/darco81/skills-radar)** - Lazy-loading skill discovery for Claude Code over MCP. 100% local Apple Silicon (MLX) or Docker. MIT.
+- ⚡ **[sdet-perf-toolkit](https://github.com/darco81/sdet-perf-toolkit)** - Context-first frontend performance audit. In-browser Lighthouse + web-vitals + trace, read by 5 AI specialists. AGPL-3.0.
+- 🏗️ **[cdat-pattern](https://github.com/darco81/cdat-pattern)** - Components-Data-Actions-Tests. 4-layer architecture for maintainable Playwright tests. MIT.
+- 🧩 **[jarvis-brain-core](https://github.com/darco81/jarvis-brain-core)** - Code-graph context over MCP for coding agents. Educational distillate. AGPL-3.0.
 
 **Live**
 
