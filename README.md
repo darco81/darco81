@@ -65,12 +65,18 @@ LLMs second, only where they actually win.
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img height="180em" src="./profile/stats-light.svg" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img height="180em" src="./profile/top-langs-light.svg" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=darco81&theme=react-dark&hide_border=true&height=300" alt="Activity Graph" />
+  <img width="90%" src="./profile/activity.svg" alt="Activity Graph" />
 </div>
 
 ---
