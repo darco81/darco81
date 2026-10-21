@@ -108,6 +108,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Europe/Warsaw
+          extras_css: |
+            h2{font-size:13px}h3,svg{font-size:11px}
           filename: profile/activity-light.svg
           output_action: none
 
@@ -124,6 +126,7 @@ jobs:
           extras_css: |
             :root{--color-calendar-graph-day-bg:#161b22;--color-calendar-graph-day-border:rgba(240,246,252,0.1);--color-calendar-graph-day-L1-bg:#0e4429;--color-calendar-graph-day-L2-bg:#006d32;--color-calendar-graph-day-L3-bg:#26a641;--color-calendar-graph-day-L4-bg:#39d353}
             svg{color:#c9d1d9}h2,h3{color:#58a6ff}
+            h2{font-size:13px}h3,svg{font-size:11px}
           filename: profile/activity-dark.svg
           output_action: none
 
