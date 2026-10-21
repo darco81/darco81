@@ -98,7 +98,7 @@ jobs:
           path: profile/pin-k6-dashboard.svg
           token: ${{ secrets.STATS_PAT }}
 
-      - name: Generate activity calendar
+      - name: Generate activity calendar (light)
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.STATS_PAT }}
@@ -108,17 +108,33 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Europe/Warsaw
-          filename: profile/activity.svg
+          filename: profile/activity-light.svg
+          output_action: none
+
+      - name: Generate activity calendar (dark)
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.STATS_PAT }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Europe/Warsaw
+          extras_css: |
+            :root{--color-calendar-graph-day-bg:#161b22;--color-calendar-graph-day-border:rgba(240,246,252,0.1);--color-calendar-graph-day-L1-bg:#0e4429;--color-calendar-graph-day-L2-bg:#006d32;--color-calendar-graph-day-L3-bg:#26a641;--color-calendar-graph-day-L4-bg:#39d353}
+            svg{color:#c9d1d9}h2,h3{color:#58a6ff}
+          filename: profile/activity-dark.svg
           output_action: none
 
       - name: Copy activity calendar
-        run: cp /metrics_renders/profile/activity.svg profile/activity.svg
+        run: cp /metrics_renders/profile/activity-light.svg /metrics_renders/profile/activity-dark.svg profile/
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git rm -q --ignore-unmatch profile/stats.svg profile/top-langs.svg
+          git rm -q --ignore-unmatch profile/stats.svg profile/top-langs.svg profile/activity.svg
           git add profile/*.svg
           git commit -m "chore: update README stats cards" || exit 0
           git push

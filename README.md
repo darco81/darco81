@@ -76,7 +76,10 @@ LLMs second, only where they actually win.
 </div>
 
 <div align="center">
-  <img width="90%" src="./profile/activity.svg" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-dark.svg">
+    <img width="90%" src="./profile/activity-light.svg" alt="Activity Graph" />
+  </picture>
 </div>
 
 ---
