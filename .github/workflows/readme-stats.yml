@@ -111,6 +111,9 @@ jobs:
           filename: profile/activity.svg
           output_action: none
 
+      - name: Copy activity calendar
+        run: cp /metrics_renders/profile/activity.svg profile/activity.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
