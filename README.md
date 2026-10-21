@@ -2,20 +2,19 @@
   <img src="./profile/sdet-logo.svg" alt="SDET - LOAD *,8,1" width="100%" />
 </div>
 
-# Hi, I'm Dariusz 👋
+# Hi, I'm Dariusz
 
-**AI-Powered Test Automation Architect · Software Engineer · AI Tooling Builder**
+**AI Engineer · Agentic Software Delivery · Multi-Agent Systems · RAG · MCP · QA roots**
 
-I started by typing my first line of code on a Commodore 64.
-A few decades later I build autonomous AI systems for software testing
-and developer workflow automation.
+My first line of code was on a Commodore 64. I thought I was starting a game.
 
-**My approach: Context before LLM.**
+Today I run teams of AI agents that ship software - and I build the gates that keep it safe.
+
+**My rule: context before LLM.**
 Most "AI for QA" content says *"let AI write your tests"*.
-I do the opposite - deterministic context engineering first,
-LLMs second, only where they actually win.
+I do the opposite - deterministic pipelines first, the model only where judgment adds value.
 
-🇵🇱 Warsaw, Poland · 🌍 Available remote · ✉️ [darek@sdet.it](mailto:darek@sdet.it)
+🇵🇱 Warsaw, Poland · Remote · B2B · [darek@sdet.it](mailto:darek@sdet.it)
 
 ---
 
