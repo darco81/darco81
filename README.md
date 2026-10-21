@@ -107,4 +107,4 @@ LLMs second, only where they actually win.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darco81-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/darco81)
 [![Email](https://img.shields.io/badge/Email-darek@sdet.it-D97757?style=flat-square&logo=gmail&logoColor=white)](mailto:darek@sdet.it)
 
-![Profile views](https://komarev.com/ghpvc/?username=dar-kow&color=00ff41)
+![Profile views](https://komarev.com/ghpvc/?username=darco81&color=00ff41)
