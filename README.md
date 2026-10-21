@@ -33,6 +33,23 @@ What I learned: agents write code faster than it can be safely merged. The bottl
 
 ---
 
+## What I'm building
+
+- **[sdet-wcag-toolkit](https://github.com/darco81/sdet-wcag-toolkit)** - Static + dynamic analysis + 5 AI specialists for WCAG 2.2 AA audits, A-F grading. AGPL-3.0.
+- **[skills-radar](https://github.com/darco81/skills-radar)** - Skill router for AI coding agents over MCP. Hybrid BM25 + semantic retrieval, fully local on Apple Silicon (MLX) or Docker. MIT, on PyPI.
+- **[sdet-brain](https://github.com/darco81/sdet-brain)** - Persistent RAG for a personal Markdown corpus. Local-first MLX + Qdrant, MCP server.
+- **[jarvis-brain-core](https://github.com/darco81/jarvis-brain-core)** - Code-graph context over MCP for coding agents. Educational distillate. AGPL-3.0.
+- **[sdet-perf-toolkit](https://github.com/darco81/sdet-perf-toolkit)** - Context-first frontend performance audit. In-browser Lighthouse + web-vitals + trace, read by 5 AI specialists. AGPL-3.0.
+- **[cdat-pattern](https://github.com/darco81/cdat-pattern)** - Components-Data-Actions-Tests. 4-layer architecture for maintainable Playwright suites, 3,000+ tests across 9 production systems. MIT.
+
+**Live**
+
+- **[portfolio.sdet.it](https://portfolio.sdet.it)** - Case studies + "From the field" series (EN)
+- **[portfolio.sdet.pl](https://portfolio.sdet.pl)** - PL version
+- **[sdet.it](https://sdet.it)** - Services portal *(in progress)*
+
+---
+
 ## Tech Stack
 
 **Languages & Runtimes**
@@ -95,23 +112,6 @@ What I learned: agents write code faster than it can be safely merged. The bottl
     <img width="90%" src="./profile/activity-light.svg" alt="Activity Graph" />
   </picture>
 </div>
-
----
-
-## What I'm building
-
-- 🔥 **[sdet-wcag-toolkit](https://github.com/darco81/sdet-wcag-toolkit)** - Static + dynamic + 5 AI specialists for WCAG 2.2 AA audits. AGPL-3.0.
-- 🧠 **[sdet-brain](https://github.com/darco81/sdet-brain)** - Persistent RAG for a personal Markdown corpus. Local-first MLX + Qdrant, MCP server.
-- 🛰️ **[skills-radar](https://github.com/darco81/skills-radar)** - Lazy-loading skill discovery for Claude Code over MCP. 100% local Apple Silicon (MLX) or Docker. MIT.
-- ⚡ **[sdet-perf-toolkit](https://github.com/darco81/sdet-perf-toolkit)** - Context-first frontend performance audit. In-browser Lighthouse + web-vitals + trace, read by 5 AI specialists. AGPL-3.0.
-- 🏗️ **[cdat-pattern](https://github.com/darco81/cdat-pattern)** - Components-Data-Actions-Tests. 4-layer architecture for maintainable Playwright tests. MIT.
-- 🧩 **[jarvis-brain-core](https://github.com/darco81/jarvis-brain-core)** - Code-graph context over MCP for coding agents. Educational distillate. AGPL-3.0.
-
-**Live**
-
-- 🚀 **[portfolio.sdet.it](https://portfolio.sdet.it)** - Case studies + "From the field" series (EN)
-- 🚀 **[portfolio.sdet.pl](https://portfolio.sdet.pl)** - PL mirror
-- 🌐 **[sdet.it](https://sdet.it)** - Services portal *(in progress)*
 
 ---
 
