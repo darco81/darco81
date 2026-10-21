@@ -56,8 +56,17 @@ What I learned: agents write code faster than it can be safely merged. The bottl
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**AI / RAG / Agents**
+
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logoColor=white)
+![MLX](https://img.shields.io/badge/-MLX_(Apple)-000000?style=flat-square&logoColor=white)
 
 **Testing & QA**
 
@@ -73,15 +82,6 @@ What I learned: agents write code faster than it can be safely merged. The bottl
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-**AI / RAG / Agents**
-
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square&logoColor=white)
-![MLX](https://img.shields.io/badge/-MLX_(Apple)-000000?style=flat-square&logoColor=white)
 
 **Infra**
 
@@ -90,6 +90,7 @@ What I learned: agents write code faster than it can be safely merged. The bottl
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ---
 
