@@ -18,6 +18,21 @@ I do the opposite - deterministic pipelines first, the model only where judgment
 
 ---
 
+## Proof, not adjectives
+
+- **SaaS platform (web panel + mobile app)** - first merge to alpha testing in under 3 weeks. 723 planned tasks, 1,000+ merged PRs, 5,000+ CI runs, thousands of tests on every run. Bug report to merged fix: 28 minutes at best.
+- **AI review gate for a whole team** - every MR gets its own worktree and 20-35 targeted mutations in production code. A surviving mutation means no approve. Caught a hardcoded ID that passed 1,320 frontend tests.
+- **WCAG 2.2 AA** - my own portfolio from grade F to A in 8 commits. Multi-page run: 5,816 findings down to 7 across 35 pages after 4 CSS commits.
+
+What I learned: agents write code faster than it can be safely merged. The bottleneck is process - CI queue, migration order, review gates.
+
+## Now
+
+- Tech lead, AI engineering - taking a logistics platform from working to production-grade with an agentic delivery pipeline
+- Open to remote B2B projects: AI engineering, agentic delivery, AI implementation
+
+---
+
 ## Tech Stack
 
 **Languages & Runtimes**
